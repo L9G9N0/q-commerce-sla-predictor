@@ -1,0 +1,7 @@
+As a Supply Chain Analyst, I have analyzed the given customer feedback data. Based on the complaints and issues reported by customers, I have identified the top 3 causes for delays:
+
+1. **Late Delivery**: Many customers have reported that their orders were delivered very late, which suggests that there may be issues with the logistics and transportation process. This could be due to inefficient routing, inadequate capacity, or poor communication with courier services.
+2. **Items Missing from Order**: Several customers have reported that items were missing from their orders, which can cause delays in fulfilling the complete order. This could be due to inventory management issues, picking and packing errors, or inadequate quality control processes.
+3. **Wrong Item Delivered**: Some customers have reported that they received the wrong items, which can also cause delays in resolving the issue and delivering the correct items. This could be due to errors in inventory management, picking and packing, or labeling and shipping processes.
+
+These three causes for delays are interrelated and can have a significant impact on customer satisfaction and loyalty. By addressing these issues, the company can improve its supply chain efficiency, reduce delays, and enhance the overall customer experience.
